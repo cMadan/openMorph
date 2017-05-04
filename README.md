@@ -145,6 +145,6 @@ Feel free to make additions/updates via pull requests!
 
 ### OpenfMRI
 * https://www.openfmri.org
-        * 65 datasets (and counting)
+	* 65 datasets (and counting)
 	* 2256 subjects (and counting)
 * Please see individual dataset page for papers to cite
