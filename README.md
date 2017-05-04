@@ -142,3 +142,9 @@ Feel free to make additions/updates via pull requests!
 * https://www.alz.washington.edu
 	* lifespan; dementia; longitudinal
 * Morris et al. (2006) [10.1097/01.wad.0000213865.09806.92]
+
+### OpenfMRI
+* https://www.openfmri.org
+        * 65 datasets (and counting)
+	* 2256 subjects (and counting)
+* Please see individual dataset page for papers to cite
