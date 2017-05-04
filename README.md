@@ -15,14 +15,14 @@ Feel free to make additions/updates via pull requests!
 * http://www.oasis-brains.org
 	* N=416
 	* lifespan; dementia; test-retest
-* Marcus et al. (2007) J Cogn Neurosci
+* Marcus et al. (2007) J Cogn Neurosci [10.1162/jocn.2007.19.9.1498]
 
 ### OASIS longitudinal
 * Open Access Series of Imaging Studies
 * http://www.oasis-brains.org
 	* N=150
 	* older adults; longitudinal; dementia
-* Marcus et al. (2010) J Cogn Neurosci
+* Marcus et al. (2010) J Cogn Neurosci [10.1162/jocn.2009.21407]
 
 ### HCP
 * Human Connectome Project
@@ -50,6 +50,7 @@ Feel free to make additions/updates via pull requests!
 * http://fcon_1000.projects.nitrc.org/indi/CoRR/html/
 	* N=1629
 	* young adults; test-retest
+* Zuo et al. (2014) Sci Data [10.1038/sdata.2014.49]
 
 ### ABIDE
 * Autism Brain Imaging Data Exchange
@@ -91,7 +92,7 @@ Feel free to make additions/updates via pull requests!
 ### ADNI
 * Alzheimer’s Disease Neuroimaging Initiative
 * http://adni.loni.usc.edu
-	* older adults; dementia
+	* older adults; dementia; longitudinal
 * Mueller et al. (2005) Alzheimers Dement [10.1016/j.jalz.2005.06.003]
 * Jack et al. (2008) J Magn Reson Imaging [10.1002/jmri.21049]
 
@@ -99,7 +100,7 @@ Feel free to make additions/updates via pull requests!
 * Australian Imaging, Biomarkers and Lifestyle
 * http://www.aibl.csiro.au/
 	* N=1100
-	* older adults; dementia
+	* older adults; dementia; longitudinal
 * Ellis et al. (2009) Int Psychogeriatr [10.1017/S1041610209009405]
 
 ### COBRE
@@ -139,5 +140,5 @@ Feel free to make additions/updates via pull requests!
 ### NACC
 * National Alzheimer's Coordinating Center
 * https://www.alz.washington.edu
-	* older adults; dementia
+	* lifespan; dementia; longitudinal
 * Morris et al. (2006) [10.1097/01.wad.0000213865.09806.92]
