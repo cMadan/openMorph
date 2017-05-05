@@ -188,3 +188,16 @@ Feel free to make additions/updates via pull requests!
 	* N=69, longitudinal 
 * Malone et al. (2013) [10.1016/j.neuroimage.2012.12.044]
 	
+### studyforrest.org
+* http://studyforrest.org/
+	* N=20
+	* T1w, T2w, dMRI, SWI, Angiography
+	* up to 10+ hours of 7T and 3T fMRI per subject (2h hollywood movie (audio and/or audio-visual), music listening, visual area localizer, multi-resultion recording (0.8-3mm) for visual orientation stimulation, retinotopic mapping, with simultaneous cardiac/resp, partially with simult. eye tracking)
+	* demographics, musical education, visual accuity, visual sensitivity
+	* extensive movie stimulus annotations
+* Hanke et al. (2014) [10.1038/sdata.2014.3]
+* Hanke et al. (2015) [10.12688/f1000research.6679.1]
+* Sengupta et al. (2016) [10.1038/sdata.2016.93]
+* Hanke et al. (2016) [10.1038/sdata.2016.92]
+* Sengupta et al. (2017) [10.1016/j.neuroimage.2016.12.040]
+* Stimulus-annotations: Labs et al. (2015) [10.12688/f1000research.6230.1], Häusler & Hanke (2016) [10.12688/f1000research.9536.1], Ibe & Hanke (2016) [10.12688/f1000research.9635.1]
