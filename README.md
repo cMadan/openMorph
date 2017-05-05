@@ -180,4 +180,10 @@ Feel free to make additions/updates via pull requests!
 	* N=210
 	* T1w, dMRI, rsMRI, ASL
 * Avants et al. (2015) [10.1038/sdata.2015.3]
+
+### MIRIAD
+* Minimal Interval Resonance Imaging in Alzheimer's Disease
+* https://www.ucl.ac.uk/drc/research/methods/miriad-scan-database
+	* N=69, longitudinal 
+* Malone et al. (2013) [10.1016/j.neuroimage.2012.12.044]
 	
