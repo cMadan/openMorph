@@ -119,6 +119,7 @@ Feel free to make additions/updates via pull requests!
 	* N>10,000 (target=100,000)
 	* lifespan; behavior; health
 * Miller et al. (2016) [10.1038/nn.4393]
+* Alfaro-Almagro et al. (2016) [10.1101/130385]
 
 ### SchizConnect
 * http://schizconnect.org
@@ -162,7 +163,7 @@ Feel free to make additions/updates via pull requests!
 	* each scanned 40 times; within 31 days
 * MacLaren et al. (2014) [10.1038/sdata.2014.37]
 
-### Kriby 21
+### Kirby 21
 * http://www.nitrc.org/projects/multimodal
 	* N=21, test-retest
 	* multiple aquisitions
