@@ -148,3 +148,42 @@ Feel free to make additions/updates via pull requests!
 	* 65 datasets (and counting)
 	* 2256 subjects (and counting)
 * Please see individual dataset page for papers to cite
+
+### MASSIVE
+* Multiple Acquisitions for Standardization of Structural Imaging Validation and Evaluation
+* http://massive-data.org/index.html
+	* N=1, scanned on 18 occasions
+	* multiple dMRI aquisitions 
+* Froeling et al. (2016) [10.1002/mrm.26259]
+
+### Test-Retest Reliability of Brain Volume Measurements
+* https://figshare.com/collections/Test_Retest_Reliability_of_Brain_Volume_Measurements/929651
+	* N=3
+	* each scanned 40 times; within 31 days
+* MacLaren et al. (2014) [10.1038/sdata.2014.37]
+
+### Kriby 21
+* http://www.nitrc.org/projects/multimodal
+	* N=21, test-retest
+	* multiple aquisitions
+* Landman et al. (2011) [10.1016/j.neuroimage.2010.11.047]
+
+### Age-ility
+* http://www.nitrc.org/projects/age-ility/
+	* N=131
+	* T1w, dMRI, rsMRI, EEG
+* Karayanidis et al. (2016) [10.1016/j.neuroimage.2015.04.047]
+
+### PTBP
+* The Pediatric Template of Brain Perfusion
+* https://figshare.com/articles/PTBP_Nifti/1190933
+	* N=210
+	* T1w, dMRI, rsMRI, ASL
+* Avants et al. (2015) [10.1038/sdata.2015.3]
+
+### MIRIAD
+* Minimal Interval Resonance Imaging in Alzheimer's Disease
+* https://www.ucl.ac.uk/drc/research/methods/miriad-scan-database
+	* N=69, longitudinal 
+* Malone et al. (2013) [10.1016/j.neuroimage.2012.12.044]
+	
