@@ -153,20 +153,20 @@ Feel free to make additions/updates via pull requests!
 ### MASSIVE
 * Multiple Acquisitions for Standardization of Structural Imaging Validation and Evaluation
 * http://massive-data.org/index.html
-	* N=1, scanned on 18 occasions
+	* N=1
 	* multiple dMRI aquisitions 
 * Froeling et al. (2016) [10.1002/mrm.26259]
 
 ### Test-Retest Reliability of Brain Volume Measurements
 * https://figshare.com/collections/Test_Retest_Reliability_of_Brain_Volume_Measurements/929651
 	* N=3
-	* each scanned 40 times; within 31 days
+	* each scanned 40 times, within 31 days
 * MacLaren et al. (2014) [10.1038/sdata.2014.37]
 
 ### Kirby 21
 * http://www.nitrc.org/projects/multimodal
-	* N=21, test-retest
-	* multiple aquisitions
+	* N=21
+	* test-retest
 * Landman et al. (2011) [10.1016/j.neuroimage.2010.11.047]
 
 ### Age-ility
@@ -185,6 +185,15 @@ Feel free to make additions/updates via pull requests!
 ### MIRIAD
 * Minimal Interval Resonance Imaging in Alzheimer's Disease
 * https://www.ucl.ac.uk/drc/research/methods/miriad-scan-database
-	* N=69, longitudinal 
+	* N=69
+	* longitudinal 
 * Malone et al. (2013) [10.1016/j.neuroimage.2012.12.044]
 	
+### studyforrest.org
+* http://studyforrest.org/
+	* N=20
+	* T1w, T2w, dMRI, SWI, Angiography
+	* up to 10+ hours of 7T and 3T fMRI per subject (2h hollywood movie [audio and/or audio-visual], localizers, retinotopic mapping, with simult. cardiac/resp, partially with simult. eyetracking)
+		* extensive movie stimulus annotations
+	* musical education, visual acuity, visual sensitivity
+* Hanke et al. (2014) [10.1038/sdata.2014.3]
