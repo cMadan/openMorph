@@ -86,7 +86,7 @@ Feel free to make additions/updates via pull requests!
 
 ### HCP
 * Human Connectome Project
-* http://www.humanconnectomeproject.org
+* http://humanconnectome.org/
 	* N=1200
 	* young adults; behavior
 * Van Essen et al. (2013) NeuroImage [10.1016/j.neuroimage.2013.05.041]
