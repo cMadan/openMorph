@@ -115,10 +115,10 @@ Feel free to make additions/updates via pull requests!
         * N=101 individually labeled human brain surfaces and volumes
         * templates (unlabeled images combining the individual brains, used for registration)
         * atlases (anatomical labels combining the individual brains, used for labeling)
-	* Desikan-Killiany-Tourville labeling protocol: http://mindboggle.info/labels.html
 * Home: http://www.mindboggle.info/data.html
 * Data: https://osf.io/nhtur/
-* Klein A and Tourville J. 101 labeled brain images and a consistent human cortic\
+* Labels: http://mindboggle.info/labels.html
+* Reference: Klein A and Tourville J. 101 labeled brain images and a consistent human cortic\
 al labeling protocol. Frontiers in Brain Imaging Methods. 6:171.
 http://dx.doi.org/10.3389/fnins.2012.00171
 
