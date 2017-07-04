@@ -118,9 +118,7 @@ Feel free to make additions/updates via pull requests!
 * Home: http://www.mindboggle.info/data.html
 * Data: https://osf.io/nhtur/
 * Labels: http://mindboggle.info/labels.html
-* Reference: Klein A and Tourville J. 101 labeled brain images and a consistent human cortic\
-al labeling protocol. Frontiers in Brain Imaging Methods. 6:171.
-http://dx.doi.org/10.3389/fnins.2012.00171
+* Reference: Klein A and Tourville J. 101 labeled brain images and a consistent human cortical labeling protocol. Frontiers in Brain Imaging Methods. 6:171. http://dx.doi.org/10.3389/fnins.2012.00171
 
 ### MIRIAD
 * Minimal Interval Resonance Imaging in Alzheimer's Disease
