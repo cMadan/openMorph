@@ -37,7 +37,7 @@ Feel free to make additions/updates via pull requests!
 
 ### AIBL
 * Australian Imaging, Biomarkers and Lifestyle
-* http://www.aibl.csiro.au/
+* http://www.aibl.csiro.au
 	* N=1100
 	* older adults; dementia; longitudinal
 	* T1, PD, T2, DWI, FLAIR, SWI
@@ -57,6 +57,14 @@ Feel free to make additions/updates via pull requests!
 	* T1, T2, DTI, rs-fMRI, task fMRI
 * Shafto et al. (2014) BMC Neurol [10.1186/s12883-014-0204-1]
 * Taylor et al. (2017) NeuroImage [10.1016/j.neuroimage.2015.09.018]
+
+### CMI-HBN
+* Child Mind Institute Healthy Brain Network
+* http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/
+	* N=664 (goal of 10,000)
+	* developmental (aged 5-21)
+	* T1, T2, DKI, rs-fMRI, EEG
+* Alexander et al. (2017) bioRxiv [10.1101/149369]
 
 ### COBRE
 * Center for Biomedical Research Excellence
@@ -94,7 +102,7 @@ Feel free to make additions/updates via pull requests!
 
 ### HCP
 * Human Connectome Project
-* http://humanconnectome.org/
+* http://humanconnectome.org
 	* N=1200
 	* young adults; behavior
 	* T1, T2, rs-fMRI, task fMRI, Q-Ball
@@ -123,10 +131,10 @@ Feel free to make additions/updates via pull requests!
 * Froeling et al. (2016) [10.1002/mrm.26259]
 
 ### Mindboggle-101
-* The Mindboggle-101 data consist of three data sets:
-        * N=101 individually labeled human brain surfaces and volumes
-        * templates (unlabeled images combining the individual brains, used for registration)
-        * atlases (anatomical labels combining the individual brains, used for labeling)
+* Mindboggle-101 data consist of three data sets:
+	* N=101 individually labeled human brain surfaces and volumes
+	* templates (unlabeled images combining the individual brains, used for registration)
+	* atlases (anatomical labels combining the individual brains, used for labeling)
 * http://www.mindboggle.info/data.html
 * Data: https://osf.io/nhtur/; Labels: http://mindboggle.info/labels.html
 * Klein & Tourville (2012) [10.3389/fnins.2012.00171]
@@ -139,6 +147,22 @@ Feel free to make additions/updates via pull requests!
 	* T1
 * Malone et al. (2013) [10.1016/j.neuroimage.2012.12.044]
 
+### MPI-LMBB
+* MPI-Leipzig Mind-Brain-Body
+* https://openfmri.org/dataset/ds000221/
+* https://www.nitrc.org/projects/mpilmbb/
+	* N=320
+	* behavior
+	* T1, T2, DWI, rs-fRMI
+* Mendes et al. (2017) [10.1101/164764]
+
+### MSC
+* Midnight Scan Club 
+* https://openfmri.org/dataset/ds000224/
+	* N=10
+	* T1, T2, MRA, MRV, rs-fMRI, task fMRI
+* Gordon et al. (2017) Neuron [10.1016/j.neuron.2017.07.011]
+
 ### NACC
 * National Alzheimer's Coordinating Center
 * https://www.alz.washington.edu
@@ -149,6 +173,7 @@ Feel free to make additions/updates via pull requests!
 ### NKIRS
 * Nathan Kline Institute - Rockland Sample
 * http://fcon_1000.projects.nitrc.org/indi/enhanced/
+	* N=683 (and counting)
 	* developmental; lifespan; behavior
 	* T1, DTI, rs-fMRI
 * Nooner et al. (2012) [10.3389/fnins.2012.00152]
@@ -171,9 +196,11 @@ Feel free to make additions/updates via pull requests!
 
 ### OpenfMRI
 * https://www.openfmri.org
-	* 65 datasets (and counting)
-	* 2256 subjects (and counting)
-* Please see individual dataset page for papers to cite
+	* 75 datasets (and counting)
+	* 2600 subjects (and counting)
+	* Please see individual dataset pages for details
+* Poldrack & Gorgolewski (2017) NeuroImage [10.1016/j.neuroimage.2015.05.073]
+* Poldrack et al. (2013) Front Neuroinform [10.3389/fninf.2013.00012]
 
 ### PING
 * Pediatric Imaging, Neurocognition, and Genetics
@@ -206,13 +233,19 @@ Feel free to make additions/updates via pull requests!
 * Wang et al. (2016) NeuroImage [10.1016/j.neuroimage.2015.06.065]
 
 ### studyforrest.org
-* http://studyforrest.org/
+* http://studyforrest.org
 	* N=20
 	* T1, T2, dMRI, SWI, angiography
 	* up to 10+ hours of 7T and 3T fMRI per subject (2h hollywood movie [audio and/or audio-visual], localizers, retinotopic mapping, with simult. cardiac/resp, partially with simult. eyetracking)
 		* extensive movie stimulus annotations
 	* musical education, visual acuity, visual sensitivity
 * Hanke et al. (2014) [10.1038/sdata.2014.3]
+
+### T1-250μm
+* http://hiresmri.ovgu.de
+	* N=1
+	* T1 (250 μm resolution)
+* Lüsebrink et al. (2017) Sci Data [10.1038/sdata.2017.32]
 
 ### Test-Retest Reliability of Brain Volume Measurements
 * https://figshare.com/collections/Test_Retest_Reliability_of_Brain_Volume_Measurements/929651
