@@ -94,7 +94,7 @@ Feel free to make additions/updates via pull requests!
 
 ### HCP
 * Human Connectome Project
-* http://www.humanconnectomeproject.org
+* http://humanconnectome.org/
 	* N=1200
 	* young adults; behavior
 	* T1, T2, rs-fMRI, task fMRI, Q-Ball
