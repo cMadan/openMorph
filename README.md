@@ -4,6 +4,7 @@ Curated list of open-access databases with human structural MRI data.
 
 Feel free to make additions/updates via pull requests!
 
+For an overview of benefits and considerations related to using open-access data for brain morphology research, see Madan (2017) Front Hum Neurosci [10.3389/fnhum.2017.00405].
 
 ### ADNI
 * Alzheimer’s Disease Neuroimaging Initiative
@@ -232,7 +233,7 @@ Feel free to make additions/updates via pull requests!
 	* T1, T2, DTI, rs-fMRI, task fMRI
 * Wang et al. (2016) NeuroImage [10.1016/j.neuroimage.2015.06.065]
 
-### studyforrest.org
+### studyforrest
 * http://studyforrest.org
 	* N=20
 	* T1, T2, dMRI, SWI, angiography
