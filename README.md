@@ -9,6 +9,7 @@ Feel free to make additions/updates via pull requests!
 * Alzheimer’s Disease Neuroimaging Initiative
 * http://adni.loni.usc.edu
 	* older adults; dementia; longitudinal
+	* T1, T2, DTI, ASL, rs-fMRI
 * Mueller et al. (2005) Alzheimers Dement [10.1016/j.jalz.2005.06.003]
 * Jack et al. (2008) J Magn Reson Imaging [10.1002/jmri.21049]
 
@@ -17,19 +18,21 @@ Feel free to make additions/updates via pull requests!
 * http://fcon_1000.projects.nitrc.org/indi/abide/
 	* N=1112
 	* developmental; autism
+	* T1, rs-fMRI
 * Di Martino et al. (2014) Mol Psychiatry [10.1038/mp.2013.78]
 
 ### ADHD-200
 * http://fcon_1000.projects.nitrc.org/indi/adhd200/
 	* N=973
 	* developmental; ADHD
+	* T1, rs-fMRI
 * ADHD-200 Consortium (2012) Front Syst Neurosci [10.3389/fnsys.2012.00062]
 * Bellec et al. (2017) NeuroImage [10.1016/j.neuroimage.2016.06.034]
 
 ### Age-ility
 * http://www.nitrc.org/projects/age-ility/
 	* N=131
-	* T1w, dMRI, rsMRI, EEG
+	* T1, dMRI, rs-fMRI, EEG
 * Karayanidis et al. (2016) [10.1016/j.neuroimage.2015.04.047]
 
 ### AIBL
@@ -37,6 +40,7 @@ Feel free to make additions/updates via pull requests!
 * http://www.aibl.csiro.au/
 	* N=1100
 	* older adults; dementia; longitudinal
+	* T1, PD, T2, DWI, FLAIR, SWI
 * Ellis et al. (2009) Int Psychogeriatr [10.1017/S1041610209009405]
 
 ### BRAINS
@@ -50,6 +54,7 @@ Feel free to make additions/updates via pull requests!
 * https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/
 	* N=653
 	* lifespan; behavior
+	* T1, T2, DTI, rs-fMRI, task fMRI
 * Shafto et al. (2014) BMC Neurol [10.1186/s12883-014-0204-1]
 * Taylor et al. (2017) NeuroImage [10.1016/j.neuroimage.2015.09.018]
 
@@ -63,6 +68,7 @@ Feel free to make additions/updates via pull requests!
 * http://fcon_1000.projects.nitrc.org/indi/CoRR/html/
 	* N=1629
 	* young adults; test-retest
+	* T1, rs-fMRI, some DTI
 * Zuo et al. (2014) Sci Data [10.1038/sdata.2014.49]
 
 ### DLBS
@@ -70,6 +76,7 @@ Feel free to make additions/updates via pull requests!
 * http://fcon_1000.projects.nitrc.org/indi/retro/dlbs.html
 	* N=315
 	* lifespan; behavior
+	* T1, PET
 
 ### fBIRN
 * Function Biomedical Informatics Research Network
@@ -82,6 +89,7 @@ Feel free to make additions/updates via pull requests!
 * http://neuroinformatics.harvard.edu/gsp/
 	* N=1570
 	* young adults; test-retest; behavior
+	* T1, rs-fMRI
 * Holmes et al. (2015) Sci Data [10.1038/sdata.2015.31]
 
 ### HCP
@@ -89,6 +97,7 @@ Feel free to make additions/updates via pull requests!
 * http://www.humanconnectomeproject.org
 	* N=1200
 	* young adults; behavior
+	* T1, T2, rs-fMRI, task fMRI, Q-Ball
 * Van Essen et al. (2013) NeuroImage [10.1016/j.neuroimage.2013.05.041]
 * Glasser et al. (2016) Nat Neurosci [10.1038/nn.4361]
 
@@ -96,11 +105,13 @@ Feel free to make additions/updates via pull requests!
 * Information eXtraction from Images
 * http://brain-development.org/ixi-dataset/
 	* lifespan
+	* T1, T2, PD, MRA, DTI
 
 ### Kirby 21
 * http://www.nitrc.org/projects/multimodal
 	* N=21
 	* test-retest
+	* T1, T1, DTI, FLAIR, ASL, VASO, rs-fMRI
 * Landman et al. (2011) [10.1016/j.neuroimage.2010.11.047]
 
 ### MASSIVE
@@ -108,6 +119,7 @@ Feel free to make additions/updates via pull requests!
 * http://massive-data.org/index.html
 	* N=1
 	* multiple dMRI aquisitions 
+	* T1, T2, DWI, FLAIR
 * Froeling et al. (2016) [10.1002/mrm.26259]
 
 ### Mindboggle-101
@@ -124,18 +136,21 @@ Feel free to make additions/updates via pull requests!
 * https://www.ucl.ac.uk/drc/research/methods/miriad-scan-database
 	* N=69
 	* longitudinal 
+	* T1
 * Malone et al. (2013) [10.1016/j.neuroimage.2012.12.044]
 
 ### NACC
 * National Alzheimer's Coordinating Center
 * https://www.alz.washington.edu
 	* lifespan; dementia; longitudinal
+	* T1, T2, DTI, FLAIR
 * Morris et al. (2006) [10.1097/01.wad.0000213865.09806.92]
 
 ### NKIRS
 * Nathan Kline Institute - Rockland Sample
 * http://fcon_1000.projects.nitrc.org/indi/enhanced/
 	* developmental; lifespan; behavior
+	* T1, DTI, rs-fMRI
 * Nooner et al. (2012) [10.3389/fnins.2012.00152]
 
 ### OASIS cross-sectional
@@ -143,6 +158,7 @@ Feel free to make additions/updates via pull requests!
 * http://www.oasis-brains.org
 	* N=416
 	* lifespan; dementia; test-retest
+	* T1 only
 * Marcus et al. (2007) J Cogn Neurosci [10.1162/jocn.2007.19.9.1498]
 
 ### OASIS longitudinal
@@ -150,6 +166,7 @@ Feel free to make additions/updates via pull requests!
 * http://www.oasis-brains.org
 	* N=150
 	* older adults; longitudinal; dementia
+	* T1 only
 * Marcus et al. (2010) J Cogn Neurosci [10.1162/jocn.2009.21407]
 
 ### OpenfMRI
@@ -163,6 +180,7 @@ Feel free to make additions/updates via pull requests!
 * http://pingstudy.ucsd.edu
 	* N=1493
 	* developmental; behavior
+	* T1, T2, DTI, and rs-fMRI
 * Jernigan et al. (2016) NeuroImage [10.1016/j.neuroimage.2015.04.057]
 
 ### PNC
@@ -170,25 +188,27 @@ Feel free to make additions/updates via pull requests!
 * https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000607.v2.p2
 	* N=1445
 	* developmental
+	* T1, DTI, ASL, task fMRI
 * Satterthwaite et al. (2014) NeuroImage [10.1016/j.neuroimage.2013.07.064]
 * Satterthwaite et al. (2016) NeuroImage [10.1016/j.neuroimage.2015.03.056]
 
 ### PTBP
-* The Pediatric Template of Brain Perfusion
+* Pediatric Template of Brain Perfusion
 * https://figshare.com/articles/PTBP_Nifti/1190933
 	* N=210
-	* T1w, dMRI, rsMRI, ASL
+	* T1, dMRI, rs-fMRI, ASL
 * Avants et al. (2015) [10.1038/sdata.2015.3]
 
 ### SchizConnect
 * http://schizconnect.org
 	* schizophrenia
+	* T1, T2, DTI, rs-fMRI, task fMRI
 * Wang et al. (2016) NeuroImage [10.1016/j.neuroimage.2015.06.065]
 
 ### studyforrest.org
 * http://studyforrest.org/
 	* N=20
-	* T1w, T2w, dMRI, SWI, Angiography
+	* T1, T2, dMRI, SWI, angiography
 	* up to 10+ hours of 7T and 3T fMRI per subject (2h hollywood movie [audio and/or audio-visual], localizers, retinotopic mapping, with simult. cardiac/resp, partially with simult. eyetracking)
 		* extensive movie stimulus annotations
 	* musical education, visual acuity, visual sensitivity
@@ -196,8 +216,8 @@ Feel free to make additions/updates via pull requests!
 
 ### Test-Retest Reliability of Brain Volume Measurements
 * https://figshare.com/collections/Test_Retest_Reliability_of_Brain_Volume_Measurements/929651
-	* N=3
-	* each scanned 40 times, within 31 days
+	* N=3, each scanned 40 times within 31 days
+	* T1
 * MacLaren et al. (2014) [10.1038/sdata.2014.37]
 
 ### UK Biobank
