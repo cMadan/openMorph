@@ -70,7 +70,10 @@ For an overview of benefits and considerations related to using open-access data
 ### COBRE
 * Center for Biomedical Research Excellence
 * http://cobre.mrn.org
-	* schizophrenia
+* http://fcon_1000.projects.nitrc.org/indi/retro/cobre.html
+	* N=72 patients, 75 healthy controls
+	* schizophrenia; lifespan
+	* T1; rs-fMRI
 
 ### CoRR
 * Consortium for Reliability and Reproducibility
