@@ -230,6 +230,14 @@ For an overview of benefits and considerations related to using open-access data
 	* T1, dMRI, rs-fMRI, ASL
 * Avants et al. (2015) [10.1038/sdata.2015.3]
 
+### SALD
+* Southwest University Adult Lifespan Dataset 
+* http://fcon_1000.projects.nitrc.org/indi/retro/sald.html
+	* N=494
+	* lifespan
+	* T1, rs-fMRI, task fMRI (subset)
+* Wei et al. (2017) bioRxiv [10.1101/177279]
+
 ### SchizConnect
 * http://schizconnect.org
 	* schizophrenia
