@@ -271,3 +271,11 @@ For an overview of benefits and considerations related to using open-access data
 	* lifespan; behavior; health
 * Miller et al. (2016) [10.1038/nn.4393]
 * Alfaro-Almagro et al. (2016) [10.1101/130385]
+
+## Download the Data
+### CoRR Download
+The download_corr.ipynb jupyter notebook contains a script to webscrape the CoRR website and download the appropriate datasets. 
+
+### Conda Environment
+The conda_env.yml file contains the environment used to run the jupyter notebook. To create a conda environment from that file, execute
+``` conda env create -f conda_env.yml```
