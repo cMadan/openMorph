@@ -174,6 +174,14 @@ For an overview of benefits and considerations related to using open-access data
 	* T1, T2, DTI, FLAIR
 * Morris et al. (2006) [[10.1097/01.wad.0000213865.09806.92](https://dx.doi.org/10.1097/01.wad.0000213865.09806.92)]
 
+### NCANDA
+* National Consortium on Alcohol and Neurodevelopment in Adolescence
+* http://ncanda.org/
+  * N ~ 800
+  * adolescence, alcohol, development, longitudinal
+  * T1, DTI, rs-fMRI
+* Brown, S. A. et al. (2015) [[10.15288/jsad.2015.76.895](https://dx.doi.org/10.15288/jsad.2015.76.895)]
+
 ### NKIRS
 * Nathan Kline Institute - Rockland Sample
 * http://fcon_1000.projects.nitrc.org/indi/enhanced/
