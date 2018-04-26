@@ -207,8 +207,8 @@ For an overview of benefits and considerations related to using open-access data
 	* T1 only
 * Marcus et al. (2010) J Cogn Neurosci [[10.1162/jocn.2009.21407](https://dx.doi.org/10.1162/jocn.2009.21407)]
 
-### OpenfMRI
-* https://www.openfmri.org
+### OpenNeuro (former OpenfMRI)
+* https://www.openneuro.org
 	* 75 datasets (and counting)
 	* 2600 subjects (and counting)
 	* Please see individual dataset pages for details
